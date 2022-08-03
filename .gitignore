@@ -20,7 +20,8 @@
 *.user
 *.userosscache
 *.sln.docstates
-*/.vscode/*
+**/.vscode/*
+Revature_training_docker/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
